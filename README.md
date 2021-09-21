@@ -5,7 +5,7 @@ Implementación de algorítmos de búsqueda sobre algunos problemas:
 
 ## Primero:
 - Implementación de la modelización de espacio de estados:
-    - Modelización de los estados posibles del sistema.
+    - Modelización del entorno los estados posibles del sistema.
     - Modelización de todas la acciones posibles.
 - Definición del problema.
 
